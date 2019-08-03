@@ -1,0 +1,2 @@
+# MyGozzApp
+Android News app
